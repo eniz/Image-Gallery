@@ -1,10 +1,9 @@
-
 /*
 * @author Eniz Gülek
 
 * @version 1.0
 
-* @licence MIT Licen
+* @licence MIT Licence
 
 */
 
